@@ -1,7 +1,7 @@
 # The Parables of Jesus
 This is a six-week, video-based class on the parables of Jesus.  It is designed to be used by small groups, whether they meet at church or in a home. The *purpose* of this class is not for me to teach you what these parables mean.  The *purpose* is teach you how to interpret and apply parables for youself.
 
-There are actually seven videos in this class:
+There are seven videos in this class:
 
 * The class begins with an [introductory video](https://www.youtube.com/watch?v=mJnlcwlPsiM&index=2&t=0s&list=PL4bBxNW7CYAOco9qD_-bDvQMdsLxzBSQi) that should be watched individually by everyone *before* attending the week one session. Pay particular attention to recommended resources; the group *should* acquire all of them before coming together to start week one.
 * Week One - This video teaches you [how to interpret parables](https://www.youtube.com/watch?v=G9ir3MbwCRs&index=3&t=0s&list=PL4bBxNW7CYAOco9qD_-bDvQMdsLxzBSQi).  The format of this video is a lecture, where I help you to understand what a parable is, how to interpret it, and how to apply it.  It would be a good idea to take some notes while listening.
