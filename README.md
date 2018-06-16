@@ -10,3 +10,5 @@ There are actually seven videos in this class:
 * Week Four - This video uses the [parable of the unrighteous administrator](https://www.youtube.com/watch?v=egRXJ3f6M2I&index=6&t=0s&list=PL4bBxNW7CYAOco9qD_-bDvQMdsLxzBSQi).  It's format is the same as week three.
 * Week Five - This video uses the [parable of the good Samaritan](https://www.youtube.com/watch?v=O9IekhjC3RU&index=7&t=0s&list=PL4bBxNW7CYAOco9qD_-bDvQMdsLxzBSQi) to allow you to contineu putting into practice what you've learned.  In it I allow you to answer all the questions before we go over any of the answers.
 * Week Six - This video uses the [parable of the rich fool](https://www.youtube.com/watch?v=11iPXoHf7Gk&index=8&t=0s&list=PL4bBxNW7CYAOco9qD_-bDvQMdsLxzBSQi). It's format is the same as week five.
+
+This class is taught by James Garriss on behalf of [Open Door Baptist Church](http://opendoorlife.com/).
